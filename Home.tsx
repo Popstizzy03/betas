@@ -548,7 +548,7 @@ const Home = () => {
                     <p>{faq.answer}</p>
                   </div>
                 </div>
-              </div>
+              </div>  
             ))}
           </div>
         </div>
